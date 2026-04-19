@@ -1,0 +1,47 @@
+# =========================
+# 🔹 Frontend (React)
+# =========================
+invoice-frontend/node_modules/
+node_modules/
+
+invoice-frontend/build/
+build/
+
+# =========================
+# 🔹 Backend (Python)
+# =========================
+__pycache__/
+*.pyc
+
+# virtual environments
+venv/
+env/
+.venv/
+
+# =========================
+# 🔹 Database (VERY IMPORTANT)
+# =========================
+*.db
+
+# =========================
+# 🔹 Generated files
+# =========================
+*.pdf
+
+# =========================
+# 🔹 Environment variables
+# =========================
+.env
+
+# =========================
+# 🔹 Logs
+# =========================
+*.log
+
+# =========================
+# 🔹 OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
